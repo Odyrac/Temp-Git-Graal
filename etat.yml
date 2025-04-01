@@ -4,7 +4,7 @@ inventaire:
   - baguette
 personnages:
   - moi:
-    - santé: 7
+    - santé: 5
   - chevalier_noir:
     - santé: 9
   - lion:
