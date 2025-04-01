@@ -1,15 +1,15 @@
-lieu: fontaine
+lieu: chemin
 inventaire:
   - cheval
   - baguette
 personnages:
   - moi:
-    - santé: 5
+    - santé: 3
   - chevalier_noir:
     - santé: 9
   - lion:
-    - santé: 20
+    - santé: 8
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
     - santé: 25
